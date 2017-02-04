@@ -1,4 +1,4 @@
-group = "com.improve_future"
+group = "test_example"
 version = "1.0-SNAPSHOT"
 
 buildscript {
