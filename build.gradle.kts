@@ -1,5 +1,3 @@
-
-
 group = "com.improve_future"
 version = "1.0-SNAPSHOT"
 
