@@ -63,11 +63,6 @@ class MoneyTest {
     }
 
     @Test
-    fun testListEquals() {
-        assertEquals(listOf("a"), listOf("a"))
-    }
-
-    @Test
     fun testMixedAddition() {
         val fiveBucks: Expression = Money.dollar(5)
         val tenFrancs: Expression = Money.franc(10)
